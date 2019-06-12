@@ -10,7 +10,7 @@ Click `Add Meal` to add your first meal/food and start tracking calories.
 WARNING: quantifiedSelf is a the result of a temporary school project, and you are likely to encounter bugs in working with our code!
 
 ### Fork & clone the repos you'd like to work with
-#### Frontend repo: https://github.com/aprildagonese/qs_frontend
+#### Frontend repo: https://github.com/PeregrineReed/qs_frontend
 
 PLEASE NOTE: The frontend repo requires connections to both the Calorie Tracker and Recipe Service to function. You will need to add a key from your locally-running Calorie Tracker app to your Frontend app in order to run it, and have the three apps running on separate ports on your local machine.
 
@@ -21,5 +21,5 @@ Ensure the calorie and recipe apps are running on separate ports on your local m
 Run `npm start` to open the app in your browser.
 
 #### Calorie Tracker repo: https://github.com/PeregrineReed/quantified-self
-#### Recipe Service repo: https://github.com/aprildagonese/qs_recipe_service
+#### Recipe Service repo: https://github.com/PeregrineReed/qs_recipe_service
 
